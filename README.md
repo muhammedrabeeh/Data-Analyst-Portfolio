@@ -35,7 +35,6 @@ KPI & Trend Analysis
 Storedata Bussiness Insights
 
 Tools: SQL | Python (Pandas) | Power BI | Excel
-
 Project Overview
 Analyzed sales, profit, and returns data from a retail superstore to evaluate business performance across regions, categories, and time using SQL and Python. Insights were visualized through an interactive Power BI dashboard.
 
@@ -52,12 +51,12 @@ Built KPIs and measures using DAX
 Created an interactive Power BI dashboard
 
 Project Links
-Python (Pandas) Analysis:
-SQL Queries: 
-Power BI Dashboard:
+Python (Pandas) Analysis: https://github.com/muhammedrabeeh/Storedata-Bussiness-Insights/tree/main/Python_Pandas
+SQL Queries: https: //github.com/muhammedrabeeh/Storedata-Bussiness-Insights/tree/main/SQL_Queries
+Power BI Dashboard: https://github.com/muhammedrabeeh/Storedata-Bussiness-Insights/tree/main/PowerBI
+Bussiness Insight: https://github.com/muhammedrabeeh/Storedata-Bussiness-Insights/tree/main/Bussiness_insight
 
 
- Contact
-LinkedIn: 
-
+Contact
+LinkedIn: https://www.linkedin.com/in/muhammed-rabeeh-7a2b39177/
 GitHub: https://github.com/muhammedrabeeh
