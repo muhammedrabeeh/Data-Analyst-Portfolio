@@ -52,11 +52,12 @@ Created an interactive Power BI dashboard
 
 Project Links
 Python (Pandas) Analysis: https://github.com/muhammedrabeeh/Storedata-Bussiness-Insights/tree/main/Python_Pandas
-SQL Queries: https: //github.com/muhammedrabeeh/Storedata-Bussiness-Insights/tree/main/SQL_Queries
-Power BI Dashboard: https://github.com/muhammedrabeeh/Storedata-Bussiness-Insights/tree/main/PowerBI
+SQL Queries: https:  https://github.com/muhammedrabeeh/Storedata-Bussiness-Insights/tree/main/SQL_Queries
+Power BI Dashboard:  https://github.com/muhammedrabeeh/Storedata-Bussiness-Insights/tree/main/PowerBI
 Bussiness Insight: https://github.com/muhammedrabeeh/Storedata-Bussiness-Insights/tree/main/Bussiness_insight
 
 
 Contact
 LinkedIn: https://www.linkedin.com/in/muhammed-rabeeh-7a2b39177/
 GitHub: https://github.com/muhammedrabeeh
+HackerRank : https://www.hackerrank.com/profile/rabeehmabrook18
