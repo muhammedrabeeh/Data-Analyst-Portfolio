@@ -1,28 +1,63 @@
-# Data-Analyst-Portfolio
-SQL |  POWER BI  |  EXCEL - Data Analysis Projects 
+Data Analyst Portfolio
 
-Aspiring Data Analyst with hands-on skills in SQL, Excel, and Power BI.
-I enjoy anlyzing data, finding patterns , and creating dashboards that support bussiness decisions.
+SQL | Python (Pandas) | Power BI | Excel
 
-skills
--SQL (Joins, Subqueries, Window Functions, CTE)
--Excel(Pivot Tables,Vlookup, Xlookup, Charts)
--Power BI(Data Modeling, Dax, Interactive Dashboards)
+Aspiring Data Analyst with hands-on experience in SQL, Python (Pandas), Excel, and Power BI, focused on transforming raw data into actionable business insights. I enjoy cleaning data, analyzing trends, and building dashboards that support data-driven decision-making.
 
-**Projects **
-1. SQL Sales Analysis
-   Tools: PostgreSQL
-   Discription:
+-Skills
+Programming & Analysis
 
-   Project Link:
+Python (Pandas, NumPy)
+Data Cleaning & Transformation
+Exploratory Data Analysis (EDA)
+Aggregations & GroupBy
+Data Export for Reporting
 
-2. Power BI
+-SQL
+Joins (INNER, LEFT, RIGHT, FULL)
+Subqueries
+Common Table Expressions (CTEs)
+Window Functions
+Aggregations & Filtering
+
+-Excel
+VLOOKUP & XLOOKUP
+Data Cleaning
+Charts & Dashboards
+
+-Power BI
+Data Modeling
+DAX Measures
+Interactive Dashboards
+KPI & Trend Analysis
+
+-Projects
+Storedata Bussiness Insights
+
+Tools: SQL | Python (Pandas) | Power BI | Excel
+
+Project Overview
+Analyzed sales, profit, and returns data from a retail superstore to evaluate business performance across regions, categories, and time using SQL and Python. Insights were visualized through an interactive Power BI dashboard.
+
+Key Business Questions
+What are the total sales and profit?
+Which regions and categories perform best?
+How do sales and profit trend over time?
+Which products generate losses despite high sales?
+
+Key Work Done
+Cleaned and analyzed data using Python (Pandas)
+Performed deep analysis using SQL queries
+Built KPIs and measures using DAX
+Created an interactive Power BI dashboard
+
+Project Links
+Python (Pandas) Analysis:
+SQL Queries: 
+Power BI Dashboard:
 
 
+ Contact
+LinkedIn: 
 
-3. Excel
-
-
-Contact
--Linkedin:
--GitHub:
+GitHub: https://github.com/muhammedrabeeh
